@@ -1,5 +1,5 @@
 //Ola k ase
-int(main(){
+void main(){
   /* code */
   printf("ola");
   return 0;
