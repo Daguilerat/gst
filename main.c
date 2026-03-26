@@ -1,5 +1,5 @@
-//Ola k ase
-void main(){
+#include <stdio.h>//Ola k ase
+int main(){
   /* code */
   printf("ola");
   return 0;
